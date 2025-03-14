@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gonzalo
 
-<!--
-**GonzaloBeristain/GonzaloBeristain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador **Full Stack** y **Analista de Datos** con experiencia en tecnologías como **React, NestJS, TypeScript, .NET y Python**.  
 
-Here are some ideas to get you started:
+💻 **Tecnologías que manejo:**
+- **Frontend:** React, Angular, TypeScript, Redux, Tailwind  
+- **Backend:** NestJS, Node.js, .NET, FastAPI  
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB  
+- **Análisis de Datos:** Pandas, SQL, R, BigQuery, Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contacto:**  
+Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en escribirme.  
+📍 Vivo en Santiago, Chile 🇨🇱  
+
+🚀 **Objetivo:**  
+Estoy en constante aprendizaje para ser el mejor programador posible y siempre estar a la vanguardia en tecnología.
+
+---
+⭐ *Si te interesa lo que hago, sígueme en GitHub!* 😉
